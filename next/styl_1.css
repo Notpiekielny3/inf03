@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia;
+}
+
+#banner {
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#main {
+    background-color: lightblue;
+    padding: 100px;
+    /* float: left; */
+}
+
+#leftd {
+    background-color: dodgerblue;
+    color: white;
+    width: 20%;
+    height: 220px;
+    float: left;
+}
+
+#middle, #rightd {
+    background-color: dodgerblue;
+    color: white;
+    width: 40%;
+    height: 220px;
+    text-align: center;
+    float: left;
+}
+
+a {
+    border: 1px dashed ;
+    color: dimgray;
+    background-color: gold;
+    color: darkred;
+    padding: 10px;
+}
